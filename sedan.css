@@ -1,0 +1,33 @@
+body{
+    background-color: hsl(0, 0%, 95%);
+    box-sizing: border-box;
+    font-size:15px;
+    font-family:"Lexend+Deca";
+}
+div{
+    display:inline-block;
+    height:497px;
+    width:309px;
+}
+div.sedans{
+    background-color:hsl(31, 77%, 52%);
+
+}
+div.suvs{
+    background-color:hsl(184, 100%, 22%);
+    margin-right: 0px;
+    margin-left: 0px;
+    
+}
+div.luxury{
+    background-color: hsl(179, 100%, 13%);
+}
+p{
+    color:hsla(0, 0%, 100%, 0.75);
+}
+h1{
+    color:hsl(0, 0%, 95%);
+}
+button{
+    color: hsl(0, 0%, 95%);
+}
